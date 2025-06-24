@@ -4,7 +4,8 @@ This project presents a data visualization dashboard built for analyzing Amazon 
 
 ## 📌 Dashboard Overview
 
-![Dashboard Screenshot](./Screenshot%202025-06-24%20191004.png)
+![Screenshot 2025-06-24 191004](https://github.com/user-attachments/assets/9c577fd6-1764-4673-bd80-063ac07349e6)
+
 
 ## 🔍 Key Insights
 
@@ -26,25 +27,7 @@ This project presents a data visualization dashboard built for analyzing Amazon 
 - **Payment Method Distribution**
 
 ## ⚙️ Tools Used
-
-- **Power BI** – For dashboard development
-- **Excel/CSV** – For raw data preprocessing (assumed)
-- **Canva/Figma (optional)** – For design elements (if applicable)
-
-## 📁 Files in this Repository
-| `Screenshot 2025-06-24 191004.png` | Final Amazon Sales Dashboard |
-| `README.md` | Project overview and documentation |
-
----
-
-## 💡 Future Improvements
-
-- Add interactive report link (Power BI online or Tableau Public)
-- Upload raw data (if permitted)
-- Include DAX or Power Query code snippets
-- Add a short video walkthrough (GIF or Loom)
-
----
+Excel
 
 ## 📣 Let's Connect!
 
